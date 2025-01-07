@@ -44,3 +44,13 @@
    - **`react-tooltip`**: For informative tooltips.
    - **`react-typewriter`**: For creative typewriter effects.
    - **`react-leaflet`**: For interactive map features.
+
+
+## Repo Initialization
+
+To get started with this repository, follow these steps:
+
+1. Clone the repository
+2. npm install
+3. npm run dev
+ 
