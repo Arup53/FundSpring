@@ -39,12 +39,22 @@
 
    - A custom error page is implemented to handle incorrect or non-existent routes gracefully.
 
+
+
 7. **Enhanced Functionality with Libraries:**
    - **`lottie-react`**: For smooth animations.
    - **`react-tooltip`**: For informative tooltips.
    - **`react-typewriter`**: For creative typewriter effects.
    - **`react-leaflet`**: For interactive map features.
 
+## Key Technologies used
+1. React
+
+2. Express Js
+
+3. Firebase
+
+4. Mongodb
 
 ## Repo Initialization
 
